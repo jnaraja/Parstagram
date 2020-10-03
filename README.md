@@ -23,9 +23,14 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-User sign up
+- User sign up
+
 <img src='https://media3.giphy.com/media/ZjFVyX9mdXNxxsvITA/giphy.gif' title='Sign up' width='' alt='Sign up' />
-User Sign In
+
+- User Sign In
+
 <img src='https://media2.giphy.com/media/Q8mwdcaazdKv1aqM95/giphy.gif' title='Sign in' width='' alt='Sign in' />
-Image upload with caption and view last 20 posts
+
+- Image upload with caption and view last 20 posts
+
 <img src='https://media4.giphy.com/media/Apm7Zg4tjPNi6o57g3/giphy.gif' title='Upload content' width='' alt='Upload content' />
